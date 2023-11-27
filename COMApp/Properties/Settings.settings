@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="COMApp.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Title" Type="System.String" Scope="User">
+      <Value Profile="(Default)">COMアプリ</Value>
+    </Setting>
+    <Setting Name="Interval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
+    <Setting Name="BufferLine" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">16</Value>
+    </Setting>
+    <Setting Name="Group0" Type="System.String" Scope="User">
+      <Value Profile="(Default)">コマンド0</Value>
+    </Setting>
+    <Setting Name="Group1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">コマンド1</Value>
+    </Setting>
+    <Setting Name="Group2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">コマンド2</Value>
+    </Setting>
+    <Setting Name="Group3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">コマンド3</Value>
+    </Setting>
+    <Setting Name="Group4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">コマンド4</Value>
+    </Setting>
+    <Setting Name="Group5" Type="System.String" Scope="User">
+      <Value Profile="(Default)">コマンド5</Value>
+    </Setting>
+    <Setting Name="Group6" Type="System.String" Scope="User">
+      <Value Profile="(Default)">フリーフォーマット</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
